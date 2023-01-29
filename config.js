@@ -41,50 +41,50 @@ const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/oh_pahadd'
-global.tautanwa = ''
+global.tautanwa = 'https://wa.me/6287843253876'
 global.sgh = 'https://github.com/yushafahad17' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/C2LO1hC0R0bIVsLWrYuiZH' //group whatsapp
 global.sdc = '-' //discord
 global.linkyt = ''
 global.syt = ''
 global.sfb = '-' // facebook
 global.snh = ''
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global.wame = 'https://wa.me/6287843253876'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6285846674819', 'A', true],
-['6285846674819', 'A', true]
+['6285843253876', 'Yusha Fahad', true],
+['6285843253876', 'Yusha Fahad', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '-' //pasang no bot lo 
-global.nomorown = '6285846674819' //pasang no own lo
-global.nomorown1 = '6285846674819'
-global.nomorown2 = '6285846674819'
-global.nomorwa = '085846674819'
-global.nameown = 'A'
-global.gcname = 'Forum A'
-global.author = 'Created By A'
+global.nomorbot = '62858432538769' //pasang no bot lo 
+global.nomorown = '6285843253876' //pasang no own lo
+global.nomorown1 = '6285843253876'
+global.nomorown2 = '6285843253876'
+global.nomorwa = '085843253876'
+global.nameown = 'Yusha Fahad'
+global.gcname = 'Yusha Fahad'
+global.author = 'Created By YF'
 global.namabot = 'Y-Botz'
-global.namebot = 'A-Botz'
-global.packname2 = 'A-Botz'
+global.namebot = 'Y-Botz'
+global.packname2 = 'Y-Botz'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= 'A'
-global.nameown2 = 'A'
+global.nameown1= 'Yusha Fahad'
+global.nameown2 = 'Yusha Fahad'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 A'
-global.wm2 = 'A '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 _*Y*_'
+global.wm2 = 'YF '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `A-Botz`
+global.titlebot = `Y-Botz`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -109,12 +109,12 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '085846674819' //pasang no lo sinih buat donasi 
-global.povo = '085846674819' 
-global.pgopay = ''
+global.pdana = '085771925745' //pasang no lo sinih buat donasi 
+global.povo = '085727144288' 
+global.pgopay = '085843253876'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085846674819'
-global.ppulsa2 = ''
+global.ppulsa = '087843253876'
+global.ppulsa2 = '085727144288'
 global.psaweria = 'https://saweria.co/yushafahad'
 global.donasikabul = '',
 

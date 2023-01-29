@@ -7296,7 +7296,7 @@
       "roboxp": 0
     },
     "62878432538769@s.whatsapp.net": {
-      "exp": 57,
+      "exp": 86,
       "limit": 100,
       "lastclaim": 0,
       "registered": false,
@@ -8229,6 +8229,32 @@
       "premnsfw": false
     },
     "6283870878617@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLinkGc": false,
+      "antiLinkTik": false,
+      "antiLinkTel": false,
+      "antiLinkIg": false,
+      "antiLinkFb": false,
+      "antiLinkHttp": false,
+      "antiLinkYt": false,
+      "antiSpam": true,
+      "antiStiker": false,
+      "antiVirtex": true,
+      "viewonce": false,
+      "antiToxic": true,
+      "simi": false,
+      "expired": 0,
+      "nsfw": false,
+      "premnsfw": false
+    },
+    "6285843253876@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": false,
